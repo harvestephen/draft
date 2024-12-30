@@ -1,2 +1,1 @@
-# draft
-DRAFT - BLOGGING PLATFORM
+Draft - Blogging Platform
