@@ -1,4 +1,3 @@
-import React from 'react';
 
 const WelcomePage = () => {
   return (
@@ -6,6 +5,6 @@ const WelcomePage = () => {
       <h1>Welcome Page</h1>
     </div>
   );
-}
+};
 
 export default WelcomePage;
